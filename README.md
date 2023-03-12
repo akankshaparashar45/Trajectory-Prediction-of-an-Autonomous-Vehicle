@@ -1,16 +1,16 @@
-## Trajectory Planning of an Autonomous Vehicle
+# Trajectory Planning of an Autonomous Vehicle
 
-# Goal
+## Goal
 - Behaviour prediction of an autonomous vehicle
 
-# Target
+## Target
 - To reduce the displacement error
 
-# Dataset
+## Dataset
 Naturalistic Driving Dataset
 - Naturalistic trajectories of vehicles and vulnerable road users recorded at German intersections with the help of drone
 
-# Prediction Models
+## Prediction Models
 - Physics-based motion model
   - Constant Velocity model
   - Constant Acceleration model
